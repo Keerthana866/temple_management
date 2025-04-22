@@ -1,1 +1,1 @@
-# temple_management
+# temple-management

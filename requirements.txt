@@ -1,0 +1,6 @@
+Flask 
+asyncio
+pygments
+gunicorn
+pymongo[srv]
+certifi
